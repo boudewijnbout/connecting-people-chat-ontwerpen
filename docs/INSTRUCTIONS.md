@@ -33,7 +33,7 @@ Deze opdracht gaat over de [analyse](#analyseren) en [ontwerp](#ontwerpen) fase 
 
 #### Materiaal analysefase
 
-- [Amazing Chat Interface Inspiration - Medium]([https://example.com](https://medium.muz.li/amazing-chat-interface-inspiration-9ce35222b93a))
+- [Amazing Chat Interface Inspiration - Medium](https://example.com](https://medium.muz.li/amazing-chat-interface-inspiration-9ce35222b93a)
 - [Resource](https://example.com)
 - [Resource](https://example.com)
 
