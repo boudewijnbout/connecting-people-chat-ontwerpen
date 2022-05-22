@@ -26,7 +26,7 @@ Deze opdracht gaat over de [analyse](#analyseren) en [ontwerp](#ontwerpen) fase 
 <details>
 <summary>Aanpak</summary>
 
-1. Zoek 5 voorbeelden van chatfuncties, maak screenshots en zet ze op het Mirobord.
+1. Zoek 5 voorbeelden van chatfuncties, maak screenshots en zet ze op [het Mirobord] (https://miro.com/app/board/uXjVOyn_QfM=/?share_link_id=8021234498).
 2. Bespreek in groepjes wat je er wel of niet goed aan vindt en zet dit op post-its bij de ontwerpen.
 3. Bekijk de huisstijl van jouw opdrachtgever: uit welke visuele elementen bestaat deze? wat zou je mee kunnen nemen in de chatfunctie?
 
