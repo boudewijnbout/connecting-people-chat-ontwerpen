@@ -44,12 +44,12 @@ Als je de huisstijl van jouw opdrachtgever hebt bekejen en je hebt voorbeelden v
 <details>
 <summary>Aanpak</summary>
 
-1. Bekijk jouw verzamelde ontwerpen: wat vind je er goed aan? en wat niet? wat neem je over? en wat niet?
+1. Bekijk jouw verzamelde ontwerpen: wat vind je er goed aan? en wat niet? wat neem je over? en wat niet? waar zit de mogelijke variatie in?
 2. Pak de huisstijlanalyse van de huisstijl van jouw opdrachtgever erbij: welke elementen kan je gebruiken voor de vormgeving van jouw chatfunctie?
-2. Maak 5 verschillende (vorm en lay-out) schetsen op papier van hoe jouw chatfunctie eruit zou kunnen zien. Schrijf jouw overwegingen erbij in annotaties.
-3. Bespreek de schetsen met een klasgenoot.
-4. Werk de beste ontwerpen in detail uit in Figma, XD, Sketch, ...  (of in CSS).
-Zorg dat je ook variaties maakt op die ontwerpen zodat je uiteindelijk 10 verschillende digitale ontwerpen hebt gemaakt. 
+2. Maak een schets op papier van hoe jouw chatfunctie eruit zou kunnen zien. Schrijf jouw overwegingen erbij in annotaties.
+3. Bespreek de schets met een klasgenoot.
+4. Werk het ontwerp in detail uit in Figma, XD, Sketch, ...  (of in CSS).
+Zorg dat je nu ook variaties maakt zodat je uiteindelijk 5 verschillende digitale ontwerpen hebt gemaakt. 
 Denk hierbij aan (kleine) variaties in kleur, schaduw, marges, typografie etc.
 
 
