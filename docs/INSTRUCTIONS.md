@@ -2,7 +2,7 @@
 
 # Connecting people - chat ontwerpen
 
-In deze deeltaak ga je een chatfunctie ontwerpen en vormgeven in de huisstijl van jouw opdrachtgever.§
+In deze deeltaak ga je een chatfunctie ontwerpen en vormgeven in de huisstijl van jouw opdrachtgever.
 
 ## Context
 
@@ -10,60 +10,16 @@ Deze leertaak hoort bij sprint 11 "Connecting People". Dit is een deeltaak die j
 
 
 
-## Briefing
-*In de briefing staat wat de opdracht is.*
-
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
-
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
-
-<table>
-    <tr>
-        <td colspan="4"><b>Week 1</b></td>
-    </tr>
-    <tr>
-        <td>Maandag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Briefing</td>
-    </tr>
-    <tr>
-        <td>Dinsdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Debriefing</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 2</b></td>
-    </tr>
-    <tr>
-        <td>Dinsdag, woensdag of donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Feedbacksessie</td>
-    </tr>
-    <tr>
-        <td colspan="4"><b>Week 3</b></td>
-    </tr>
-    <tr>
-        <td>Donderdag</td>
-        <td>{datum}</td>
-        <td>13:00 uur *</td>
-        <td>Oplevering</td>
-    </tr>
-</table>
-* vanaf 13:00 uur
+Leren om een huisstijl te analyseren om deze vervolgens toe te passen op een chatfunctie.
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+Opdracht: chatfunctie ontwerpen in huisstijl van de opdrachtgever.
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Deze opdracht gaat over de [analyse](#analyseren) en [ontwerp](#ontwerpen) fase van de DLC.
+
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
@@ -77,83 +33,41 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 #### Materiaal analysefase
 
-- [Resource](https://example.com)
+- [Amazing Chat Interface Inspiration - Medium]([https://example.com](https://medium.muz.li/amazing-chat-interface-inspiration-9ce35222b93a))
 - [Resource](https://example.com)
 - [Resource](https://example.com)
 
 </details>
 
+
 ### Ontwerpen
-*In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
+
+Als je de huisstijl van jouw opdrachtgever hebt geanalyseerd en je hebt voorbeelden verzameld van andere chatfuncties, kan je aan de slag met het ontwerpen.
 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Schets een nette Zero State van jouw opdracht. Schets alleen de viewport.
+2. Schrijf naast de schets: De User Story. Wie is de gebruiker? Wat komt de gebruiker op de pagina doen?
+3. Bepaal de visuele hierarchie van jouw Zero State (1: Most Newsworthy info, 2: Important details, 3: Other)
+    <img width="658" alt="image" src="https://user-images.githubusercontent.com/1391509/158123801-a4324c80-13cd-439a-8b7e-e5eab5df4151.png">
+
+4. Maak 6 nieuwe schetsen van de Zero State in de viewport (Varieer met grootte, witruimte, positie op het scherm)
+5. Maak weer 6 schetsen, dit keer mag de gebruiker scrollen
+6. Werk de 3 beste ontwerpen in detail uit in Figma, XD, Sketch, ...  (of in CSS)
+7. Presenteer de ontwerpen aan de opdrachtgever tijdens het tussentijdse feedbackgesprek
+
 
 #### Materiaal ontwerpfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Principles of User Interface Design 16 - A crucial moment: the zero state](http://bokardo.com/principles-of-user-interface-design/)
+- [Visual Hierarchy: How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)
+- [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 
 </details>
 
-### Bouwen
-*In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
 
-<details>
-<summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal bouwfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Integreren
-*In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal integratiefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
-
-### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
-
-<details>
-<summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal testfase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-
-</details>
 
 ## Criteria
 *Definitions of done*
