@@ -2,18 +2,18 @@ De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 
-# {Naam}
+# {Chat ontwerpen}
 
-{Beschrijving van de leertaak}.
+{In deze deeltaak ga je een chatfunctie ontwerpen en vormgeven in de huisstijl van jouw opdrachtgever}.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Deze leertaak hoort bij {sprint # "titel van de sprint"}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Deze leertaak hoort bij {sprint 11 "Real time"}. Dit is een {autonome taak} die je {individueel} uitvoert.
 
 
 ## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
+*In de briefing staat wat de opdracht is.*
 
 {Beschrijf de opdrachtgever}
 {Beschrijf de opdracht}
