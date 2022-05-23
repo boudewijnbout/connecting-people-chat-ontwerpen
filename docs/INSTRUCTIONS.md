@@ -82,6 +82,6 @@ P: Je combineert aangeboden principes en conventies op het gebied van frontend, 
 Deze opdracht is done als:
 
 - [ ] Er goed is gekeken naar de huisstijl van de opdrachtgever en deze terug te zien is in de chat functie
-- [ ] Er meerdere schetsen van een chat functie zijn gemaakt op papier.
+- [ ] Er een schets van een chat functie is gemaakt op papier.
 - [ ] Er 10 ontwerpen in detail zijn uitgewerkt in Figma, XD, Sketch, ... (of in CSS).
 - [ ] De schetsen en uitgewerkte ontwerpen zijn gedocumenteerd in de Readme van de leertaak.
