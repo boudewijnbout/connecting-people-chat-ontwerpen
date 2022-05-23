@@ -50,7 +50,7 @@ Als je de huisstijl van jouw opdrachtgever hebt bekejen en je hebt voorbeelden v
 2. Maak een schets op papier van hoe jouw chatfunctie eruit zou kunnen zien. Schrijf jouw overwegingen erbij in annotaties.
 3. Bespreek de schets met een klasgenoot.
 4. Werk het ontwerp in detail uit in Figma, XD, Sketch, ...  (of in CSS).
-Zorg dat je nu ook variaties maakt zodat je uiteindelijk 5 verschillende digitale ontwerpen hebt gemaakt. 
+Zorg dat je nu ook variaties maakt zodat je uiteindelijk 10 verschillende digitale ontwerpen hebt gemaakt. 
 Denk hierbij aan (kleine) variaties in kleur, schaduw, marges, typografie etc.
 
 
