@@ -33,7 +33,7 @@ Deze opdracht gaat over de [analyse](#analyseren) en [ontwerp](#ontwerpen) fase 
 #### Materiaal analysefase
 
 - [How To Infuse Visual Branding Into Your Chatbot](https://hellotars.com/blog/chatbot-branding-design)
-- [Chatbots as Brand Touch Points](https://medium.com/@thinkmoto/chatbots-as-brand-touch-points-d9c0e5a29a98))
+- [Chatbots as Brand Touch Points](https://medium.com/@thinkmoto/chatbots-as-brand-touch-points-d9c0e5a29a98)
 
 </details>
 
