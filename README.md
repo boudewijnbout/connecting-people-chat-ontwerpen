@@ -17,11 +17,17 @@ Bovenstaande foto is de analoge schets die ik heb gemaakt. Ik had bedacht dat ik
 
 #### Schets 1: Basis
 
-Bovenstaande schets is de "basis" variant van mijn applicatie. Dit houd in dat er geen extra features zijn toegevoegd, naast de gebruikelijke chat features.
+Bovenstaande schets is de `basis` variant van mijn applicatie. Dit houd in dat er geen extra features zijn toegevoegd, naast de gebruikelijke chat features.
 
 <hr>
 
 #### Schets 2: Authenicatie
+
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.16.11.png" />
+
+Bovenstaande schets is de `authenticatie` variant van mijn applicatie. In deze schets is gesimuleerd hoe de applicatie eruit ziet als je als een medewerker van Chippr bent ingelogd.
+
+#### Schets 3: Berichten kleuren omgedraaid
 
 
 
