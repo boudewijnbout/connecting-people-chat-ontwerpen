@@ -82,9 +82,13 @@ Bovenstaande schets is de `gepinde berichten` variant. In deze schets heb ik twe
 
 Bovenstaande schets is de `andere berichten counter`. In deze schets heb ik een andere counter gebruikt voor het aantal ongelezen berichten.
 
+<hr>
+
 #### Schets 10: Andere fonts
 
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.57.59.png" />
 
+Bovenstaande schets is de `andere fonts` variant. In deze schets heb ik een aantal van de door mij gebruikte fonts vervangen met andere fonts.
 
 ## Licentie
 
