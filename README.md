@@ -70,9 +70,16 @@ Bovenstaande schets is de `schaduwen` variant. In deze schets heb ik schaduwen t
 
 #### Schets 8: Gepinde berichten
 
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.48.17.png" />
 
+Bovenstaande schets is de `gepinde berichten` variant. In deze schets heb ik twee berichten als het ware vastgezet, zodat als de gebruiker zou scrollen tussen de lijst van personen de gepinde berichten blijven staan.
 
 <hr>
+
+#### Schets 9: Andere berichten counter
+
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.48.17.png" />
+
 
 
 ## Licentie
