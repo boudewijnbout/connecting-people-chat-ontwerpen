@@ -39,7 +39,7 @@ Bovenstaande schets is de variant met `omgedraaide berichten kleuren`. In deze s
 
 #### Schets 4: Reacties
 
-<img widht="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.24.35.png" />
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.24.35.png" />
 
 Bovenstaande schets is de `reactie` variant. In de schets heb ik bij een bericht een reactie geplaatst, om te simuleren dat je als gebruiker op een specifiek bericht kan reageren. 
 
@@ -60,6 +60,10 @@ Bovenstaande schets is de `datum & tijd` variant. In deze schets heb ik bij een 
 Bovenstaande schets is de `status gebruiker` variant. In deze schets heb ik bij de gebruiker een status geplaatst.
 
 <hr>
+
+#### Schets 6: Schaduwen
+
+
 
 
 ## Licentie
