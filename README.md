@@ -7,9 +7,13 @@ Hieronder staan verschillende foto's en schermafbeeldingen die verschillende ver
 
 ## ✍🏼 Analoge Schets
 
+<img width="500" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/IMG_0100.jpg" />
+
+Bovenstaande foto is de analoge schets die ik heb gemaakt. Ik had bedacht dat ik voor een soort interne chat applicatie voor de medewerkers voor Chippr wilde gaan. Dus ik heb verschillende gebruikers geschetst in de sidebar links en de daadwerkelijke chat window is aan de rechterkant gepositioneerd.
+
+## 🖥 Digitale Schetsen
 
 
-## Schetsen, Figma/XD of CSS?
 
 
 ## Licentie
