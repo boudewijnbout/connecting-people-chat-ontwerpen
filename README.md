@@ -55,6 +55,11 @@ Bovenstaande schets is de `datum & tijd` variant. In deze schets heb ik bij een 
 
 #### Schets 6: Status gebruiker
 
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.33.08.png" />
+
+Bovenstaande schets is de `status gebruiker` variant. In deze schets heb ik bij de gebruiker een status geplaatst.
+
+<hr>
 
 
 ## Licentie
