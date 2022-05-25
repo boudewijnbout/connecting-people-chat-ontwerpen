@@ -35,11 +35,15 @@ Bovenstaande schets is de `authenticatie` variant van mijn applicatie. In deze s
 
 Bovenstaande schets is de variant met `omgedraaide berichten kleuren`. In deze schets heb ik de kleuren van de berichten omgewisseld om te kijken hoe dit eruit zou zien.
 
+<hr>
+
 #### Schets 4: Reacties
 
 <img widht="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.24.35.png" />
 
 Bovenstaande schets is de `reactie` variant. In de schets heb ik bij een bericht een reactie geplaatst, om te simuleren dat je als gebruiker op een specifiek bericht kan reageren. 
+
+<hr>
 
 #### Schets 5: Datum & Tijd
 
