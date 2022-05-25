@@ -51,6 +51,8 @@ Bovenstaande schets is de `reactie` variant. In de schets heb ik bij een bericht
 
 Bovenstaande schets is de `datum & tijd` variant. In deze schets heb ik bij een bericht een datum en tijd geplaatst van wanneer het bericht is verstuurd.
 
+<hr>
+
 #### Schets 6: Status gebruiker
 
 
