@@ -47,6 +47,12 @@ Bovenstaande schets is de `reactie` variant. In de schets heb ik bij een bericht
 
 #### Schets 5: Datum & Tijd
 
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.28.55.png" />
+
+Bovenstaande schets is de `datum & tijd` variant. In deze schets heb ik bij een bericht een datum en tijd geplaatst van wanneer het bericht is verstuurd.
+
+#### Schets 6: Status gebruiker
+
 
 
 ## Licentie
