@@ -1,8 +1,13 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 🏞 Chippr.dev Chat Ontwerpen
 
-# Chat ontwerpen
+In deze opdracht heb ik een aantal schetsen gemaakt in de huistijl van de opdrachtgever: Chippr.dev. Ik heb eerst op dribble.com inspiratie gezocht en ben hierna gaan schetsen op papier. Toen ik eenmaal een goed idee had staan op papier ben ik deze digitaal gaan uitwerken, tot slot heb ik hier 10 variaties op bedacht.
 
-## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
+Hieronder staan verschillende foto's en schermafbeeldingen die verschillende versies van de Chippr.dev Chat app laten zien.
+
+
+## ✍🏼 Analoge Schets
+
+
 
 ## Schetsen, Figma/XD of CSS?
 
