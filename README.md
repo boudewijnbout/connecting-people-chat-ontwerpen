@@ -4,7 +4,6 @@ In deze opdracht heb ik een aantal schetsen gemaakt in de huistijl van de opdrac
 
 Hieronder staan verschillende foto's en schermafbeeldingen die verschillende versies van de Chippr.dev Chat app laten zien.
 
-
 ## ✍🏼 Analoge Schets
 
 <img width="500" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/IMG_0100.jpg" />
