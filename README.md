@@ -60,9 +60,19 @@ Bovenstaande schets is de `status gebruiker` variant. In deze schets heb ik bij 
 
 <hr>
 
-#### Schets 6: Schaduwen
+#### Schets 7: Schaduwen
+
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2013.38.58.png" />
+
+Bovenstaande schets is de `schaduwen` variant. In deze schets heb ik schaduwen toegepast op de afbeeldingen en berichten.
+
+<hr>
+
+#### Schets 8: Gepinde berichten
 
 
+
+<hr>
 
 
 ## Licentie
