@@ -13,6 +13,15 @@ Bovenstaande foto is de analoge schets die ik heb gemaakt. Ik had bedacht dat ik
 
 ## 🖥 Digitale Schetsen
 
+<img width="800" src="https://github.com/boudewijnbout/connecting-people-chat-ontwerpen/blob/main/assets/Schermafbeelding%202022-05-25%20om%2012.20.09.png" />
+
+#### Schets 1: Basis
+
+Bovenstaande schets is de "basis" variant van mijn applicatie. Dit houd in dat er geen extra features zijn toegevoegd, naast de gebruikelijke chat features.
+
+<hr>
+
+#### Schets 2: Authenicatie
 
 
 
